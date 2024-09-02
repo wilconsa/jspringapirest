@@ -1,0 +1,5 @@
+/home/wilconsa/code/spring-boot-rest-services-with-unit-and-integration-tests/src/main/java/com/in28minutes/springboot/model/Student.java
+/home/wilconsa/code/spring-boot-rest-services-with-unit-and-integration-tests/src/main/java/com/in28minutes/springboot/controller/StudentController.java
+/home/wilconsa/code/spring-boot-rest-services-with-unit-and-integration-tests/src/main/java/com/in28minutes/springboot/service/StudentService.java
+/home/wilconsa/code/spring-boot-rest-services-with-unit-and-integration-tests/src/main/java/com/in28minutes/springboot/model/Course.java
+/home/wilconsa/code/spring-boot-rest-services-with-unit-and-integration-tests/src/main/java/com/in28minutes/springboot/StudentServicesApplication.java
